@@ -15,3 +15,7 @@ print("Hello World!")
 Hello,
 World.
 """ # Over multiple lines.
+
+# Let's now add two strings together!
+
+print("Hello " + "World") # The result will be the same.
