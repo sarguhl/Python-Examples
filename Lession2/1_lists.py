@@ -18,4 +18,12 @@ print(list[0])
 
 # Well now, let's try to add a value to the list.
 list.append("Joma")
+print(list[8])
 # With the '.append()' function you can add values to a list.
+
+# Insert a value into a position:
+list.insert(3, "Yuki")
+print(list[3])
+# What we do now is, we insert the string "Yuki" into the 3rd (actually 4th) position of the list.
+
+# There are a few other functions you can use. For example: remove, extend, and pop.
